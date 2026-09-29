@@ -1,0 +1,6 @@
+@SmartQueueApi_HostAddress = http://localhost:5176
+
+GET {{SmartQueueApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
